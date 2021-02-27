@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PRESSURELOGGER
+	bool "pressurelogger"
+	help
+	  pressure logger host
+
+	  ${HOME}/pressure_logger/host

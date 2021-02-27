@@ -1,0 +1,6 @@
+menu "Examples"
+	source "$BR2_EXTERNAL_MYEXTERNAL_PATH/package/bar/Config.in"
+	source "$BR2_EXTERNAL_MYEXTERNAL_PATH/package/libfoo/Config.in"
+	source "$BR2_EXTERNAL_MYEXTERNAL_PATH/package/myapp/Config.in"
+	source "$BR2_EXTERNAL_MYEXTERNAL_PATH/package/pressurelogger/Config.in"
+endmenu
